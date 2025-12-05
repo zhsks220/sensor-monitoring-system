@@ -56,7 +56,7 @@ sensor-monitoring-system/
 
 ### 1. 저장소 클론
 ```bash
-git clone https://github.com/yourusername/sensor-monitoring-system.git
+git clone https://github.com/zhsks220/sensor-monitoring-system.git
 cd sensor-monitoring-system
 ```
 
@@ -246,16 +246,14 @@ MIT License
 
 ## 👤 개발자
 
-- **이름**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
+- **GitHub**: [@zhsks220](https://github.com/zhsks220)
 
-## 🙏 감사의 말
+## 🙏 프로젝트 소개
 
-이 프로젝트는 산업용 IOT 센서 모니터링 시스템 구축 경험을 바탕으로 제작되었습니다.
+산업 현장의 악취 및 환경 센서 모니터링 솔루션 개발을 위한 포트폴리오 프로젝트입니다.
 
 ---
 
-**개발 기간**: 2024.11 ~ 2024.12 (1개월)  
+**개발 기간**: 2025.12 (1주)  
 **주요 기술**: Python, Django, PostgreSQL, JavaScript  
 **프로젝트 타입**: 실시간 모니터링 시스템
